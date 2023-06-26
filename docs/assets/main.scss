@@ -1,9 +1,8 @@
 @import 'utilities';
+@import 'themes/main';
+@import 'ionic/main';
 
 .tab {
-  /*  &-content {
-    padding: 10px;
-  } */
   &-card {
     ion-card-header {
       padding: 10px 10px 0px 10px;

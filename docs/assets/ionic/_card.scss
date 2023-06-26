@@ -1,0 +1,20 @@
+ion-card {
+  border: 1px solid var(--ion-default-border-color);
+  --background: var(--ion-default-background);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+ion-toolbar {
+  --background: var(--ion-toolbar-background);
+}
+
+.loading-wrapper,
+.loading-wrapper.sc-ion-loading-ios {
+  background: var(--ion-default-background);
+}
+
+ion-content {
+  --ion-background-color: var(--ion-custom-background);
+}
